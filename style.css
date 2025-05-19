@@ -1,0 +1,37 @@
+h1{
+font-size: 30px;
+text-align: center;
+color: #de7471
+}
+
+p{
+font-size: 20px;
+text-align: left;
+font-family: Helvetica, sans-serif;
+}
+
+.loup {
+  display: block;
+  margin: 20px auto;
+  max-width: 90%;
+  border-radius: 12px;
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
+  transition: transform 0.3s ease-in-out;
+}
+
+.loup:hover {
+  transform: scale(1.05);
+}
+body {
+    background-color: #f0f0f0; /* Remplace #f0f0f0 par la couleur que tu veux */
+}
+.loup {
+  display: block;
+  margin: 20px auto;
+  max-width: 90%;
+  height: auto;
+  border-radius: 12px;
+  box-shadow: 0 6px 12px rgba(0,0,0,0.3);
+  border: 5px solid #87CEEB; /* bleu ciel */
+  transition: transform 0.3s ease-in-out;
+}
