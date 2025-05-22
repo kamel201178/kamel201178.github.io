@@ -1,3 +1,20 @@
+<<<<<<< HEAD
+h1{
+    font-size: 30px;
+    text-align: center;
+    color: #de7471
+    }
+    
+    p{
+    font-size: 20px;
+    text-align: left;
+    font-family: Helvetica, sans-serif;
+    }
+    
+    body {
+    background-color: #007471;
+    }
+=======
 h1{
 font-size: 30px;
 text-align: center;
@@ -35,3 +52,4 @@ body {
   border: 5px solid #87CEEB; /* bleu ciel */
   transition: transform 0.3s ease-in-out;
 }
+>>>>>>> 3a3c9089c8f5dfafaa0068c2a0ec6406ba65ea89
